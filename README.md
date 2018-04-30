@@ -1,16 +1,10 @@
 #WebChat聊天室
-**2017.01.11更新**
-```
-- 使用mysql替换oracle 
-- 整理了一下结构, 删除了多余的代码
-```
 
 ##一.所用技术
 项目使用Maven构建,后台使用的语言是JAVA
 
 框架为Spring + Spring MVC + Mybatis
 
-数据库使用的是~~Oracle 10g~~MySQL
 前端采用[Amaze UI](http://amazeui.org/),弹窗和分页使用的是[Layer](www.layui.com),当然还有[Jquery](http://jquery.com/)...
 
 开发工具使用的是[IntelliJ IDEA 15.0.1](http://www.jetbrains.com/idea/)
@@ -40,13 +34,6 @@ list是当前在线的用户名的列表,只在后台触发onopen和onclose时�
 ##三.实现功能
 用户登录,用户信息展示,用户信息修改,用户头像修改,修改密码,在线聊天,在线列表展示,群聊和私聊,日志记录展示等.
 
-##四.使用方法
-数据库:webapp/file/sql/webchat.sql,直接导入数据库即可
-
-JAR包:在webapp/file/jar,这里放了所有用到的JAR包,方便不会maven的同学,不过还是建议学一学maven
-
-项目直接导入eclipse或者idea即可
-内置两个账号:admin/admin, Amayadream/123456
 
 ##五.截图
 聊天截图

@@ -10,8 +10,8 @@ import java.util.List;
 
 /**
  * NAME   :  EmailSystem/com.amayadream.interceptor
- * Author :  Amayadream
- * Date   :  2015.10.06 17:33
+ *
+ *
  * TODO   :
  */
 public class LoginInterceptor extends HandlerInterceptorAdapter {

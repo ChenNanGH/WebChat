@@ -4,8 +4,8 @@ import java.io.File;
 
 /**
  * 公共验证工具类
- * @author :  Amayadream
- * @time :  2016.02.01 16:20
+ *
+ *
  */
 public class CommonValidate {
 

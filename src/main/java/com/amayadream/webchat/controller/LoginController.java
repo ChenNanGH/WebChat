@@ -17,8 +17,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 /**
- * Author :  Amayadream
- * Date   :  2016.01.08 14:57
+ *
+ *
  * TODO   :  用户登录与注销
  */
 @Controller

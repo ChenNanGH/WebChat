@@ -11,8 +11,8 @@ import java.util.List;
 
 /**
  * NAME   :  WebChat/com.amayadream.webchat.serviceImpl
- * Author :  Amayadream
- * Date   :  2016.01.09 16:43
+ *
+ *
  * TODO   :
  */
 @Service(value = "logService")

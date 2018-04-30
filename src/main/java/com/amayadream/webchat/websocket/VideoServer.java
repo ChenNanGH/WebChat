@@ -8,8 +8,8 @@ import java.util.Map;
 
 /**
  * NAME   :  WebChat/com.amayadream.webchat.websocket
- * Author :  Amayadream
- * Date   :  2016.01.23 17:20
+ *
+ *
  * TODO   :
  */
 @ServerEndpoint(value = "/videoServer", configurator = HttpSessionConfigurator.class)

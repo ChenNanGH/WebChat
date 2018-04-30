@@ -7,8 +7,8 @@ import javax.websocket.server.ServerEndpointConfig;
 
 /**
  * NAME   :  WebChat/com.amayadream.webchat.websocket
- * Author :  Amayadream
- * Date   :  2016.01.12 17:10
+ *
+ *
  * TODO   :
  */
 public class HttpSessionConfigurator extends ServerEndpointConfig.Configurator  {

@@ -4,8 +4,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Author :  Amayadream
- * Date   :  2016.01.09 17:54
+ *
+ *
  * TODO   :  路由控制器
  */
 @Controller

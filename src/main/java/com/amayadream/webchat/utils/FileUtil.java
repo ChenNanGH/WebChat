@@ -8,8 +8,8 @@ import java.io.File;
 
 /**
  * NAME   :  EmailSystem/com.amayadream.emailsystem.util
- * Author :  Amayadream
- * Date   :  2015.12.04 22:58
+ *
+ *
  * TODO   :
  */
 public class FileUtil {

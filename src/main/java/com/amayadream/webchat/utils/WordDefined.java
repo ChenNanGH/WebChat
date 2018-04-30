@@ -2,8 +2,8 @@ package com.amayadream.webchat.utils;
 
 /**
  * NAME   :  WebChat/com.amayadream.webchat.utils
- * Author :  Amayadream
- * Date   :  2016.01.09 17:18
+ *
+ *
  * TODO   :
  */
 public class WordDefined {
@@ -14,7 +14,7 @@ public class WordDefined {
     public String LOGIN_SUCCESS = "登录成功!";
     public String LOGOUT_SUCCESS = "注销成功!";
 
-    public String LOG_TYPE_LOGIN = "登陆";
+    public String LOG_TYPE_LOGIN = "登录";
     public String LOG_TYPE_LOGOUT = "注销";
     public String LOG_TYPE_ADD = "新增";
     public String LOG_TYPE_UPDATE = "更新";

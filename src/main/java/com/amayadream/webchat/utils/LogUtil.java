@@ -4,8 +4,8 @@ import com.amayadream.webchat.pojo.Log;
 
 /**
  * NAME   :  LeaveSystem/com.amayadream.leave.util
- * Author :  Amayadream
- * Date   :  2015.12.29 15:07
+ *
+ *
  * TODO   :
  */
 public class LogUtil {

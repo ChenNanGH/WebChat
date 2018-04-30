@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>WebChat | 登陆</title>
+  <title>WebChat | 登录</title>
   <link href="<%=path%>/static/source/css/login.css" rel='stylesheet' type='text/css' />
   <script src="<%=path%>/static/plugins/jquery/jquery-2.1.4.min.js"></script>
   <script src="<%=path%>/static/plugins/layer/layer.js"></script>
@@ -30,7 +30,7 @@
       <input type="password" id="password" name="password" placeholder="请输入密码">
     </div>
     <div class="signin">
-      <input type="submit" id="submit" value="Login" >
+      <input type="submit" id="submit" value="登录" >
     </div>
   </form>
 </div>
@@ -61,7 +61,7 @@
     });
 
     $('#username,#password').change(function(){
-      $('#submit').attr('value','Login').css('background','#3ea751');
+      $('#submit').attr('value','登录').css('background','#3ea751');
     });
   });
 
@@ -89,7 +89,7 @@
     //	return false;
     //}
     else{
-      $('#submit').attr('value','Logining~');
+      $('#submit').attr('value','登录中');
       return true;
     }
   }

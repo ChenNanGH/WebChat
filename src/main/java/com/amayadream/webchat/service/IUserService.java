@@ -6,8 +6,8 @@ import java.util.List;
 
 /**
  * NAME   :  WebChat/com.amayadream.webchat.service
- * Author :  Amayadream
- * Date   :  2016.01.08 14:36
+ *
+ *
  * TODO   :
  */
 public interface IUserService {

@@ -4,8 +4,8 @@ import org.springframework.stereotype.Repository;
 
 /**
  * NAME   :  WebChat/com.amayadream.webchat.pojo
- * Author :  Amayadream
- * Date   :  2016.01.09 16:37
+ *
+ *
  * TODO   :  系统日志实体类
  */
 @Repository(value = "log")

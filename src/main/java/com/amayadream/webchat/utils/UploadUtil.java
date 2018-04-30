@@ -11,8 +11,8 @@ import java.util.Iterator;
 
 /**
  * NAME   :  EmailSystem/com.amayadream.emailsystem.util
- * Author :  Amayadream
- * Date   :  2015.12.05 15:22
+ *
+ *
  * TODO   :  文件上传工具类
  */
 public class UploadUtil {

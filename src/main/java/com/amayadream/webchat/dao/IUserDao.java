@@ -8,8 +8,8 @@ import java.util.List;
 
 /**
  * NAME   :  WebChat/com.amayadream.webchat.dao
- * Author :  Amayadream
- * Date   :  2016.01.08 14:30
+ *
+ *
  * TODO   :
  */
 @Service(value = "userDao")
